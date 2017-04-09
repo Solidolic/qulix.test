@@ -1,0 +1,6 @@
+.actionsPanel {
+	display: flex;
+    padding-top: 10px;
+    background: #eae9e9;
+    margin: 20px 0 20px 0;
+}
